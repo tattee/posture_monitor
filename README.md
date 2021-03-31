@@ -1,4 +1,7 @@
 # Posture monitor
+Monitoring posture by OpenCV.
+
+When system detects your poor posture, the monitor goes dark.
 
 ## requirements
 OS: Windows, (Linux)
